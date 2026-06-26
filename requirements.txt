@@ -1,0 +1,11 @@
+python-telegram-bot==13.7
+requests==2.28.0
+APScheduler==3.6.3
+cachetools==4.2.2
+certifi
+charset-normalizer
+idna
+urllib3
+pytz
+tornado
+six
